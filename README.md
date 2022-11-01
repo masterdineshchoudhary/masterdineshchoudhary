@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @masterdineshchoudhary
+- 👋 Hi, I’m Dinesh Choudhary
 - 👀 I’m Software Engineer
-- 🌱 CSE, SPPU
+- 🌱 B.E Computer Engineering , DPCOE - SPPU
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mrdineshchoudhary/)
 
 <!---
